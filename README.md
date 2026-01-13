@@ -8,12 +8,6 @@
 -----
 [![Discord](https://discordapp.com/api/guilds/1418891584732266669/widget.png?style=banner2)](https://discord.gg/UgQHxrCk2z)
 
-> [!CAUTION]
->
-> This Project Is Under Development
-> , Some features might break
-
-
 # API Endpoints & Usage
 ### Server Lookup
 ``` /api/server?ip=ip:port```
